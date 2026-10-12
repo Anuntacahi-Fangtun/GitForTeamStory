@@ -29,6 +29,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 : I was a slave of cat  forever so the cat was supposed to talk here.
 
 9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+   (What did they find?)  OH!!!!! THEY FIND THE TRUTH OF FIGHT CLUB 
+   SO THEY SAY "Don't SAY FIGHT CLUB" ??????? YOU ARE SON OF A BITCH"!!!!!!!!!!
 
 10. The ending… well, we don’t really have one. Please fix this..
