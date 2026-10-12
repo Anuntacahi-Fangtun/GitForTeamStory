@@ -10,8 +10,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, there was a **castle**.  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Then suddenly, the dragon spread its wing and flew toward the castle to protect its treasure. <!--Mei->
 
 3. The scientist tried to shout the antidote formula, but it came out in high-pitched frog croaks, and nobody had brought a notepad anyway <!--Lotte-->
 
@@ -21,9 +20,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s blast off into space!” shouted a pirate who had suddenly appeared out of nowhere. <!--Boom-->
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. WHOOSH! The rocket took off, and BOOM! The time machine broke down at the worst possible moment!
+   ![rocket](rocket.png)  <!---Tang-->
 
 8. The cat was supposed to talk here, but the line is missing.
 : I was a slave of cat  forever so the cat was supposed to talk here.
@@ -31,4 +31,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. The ending… well, we don’t really have one. Please fix this..
