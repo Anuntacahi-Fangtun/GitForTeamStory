@@ -23,7 +23,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 6. “Let’s blast off into space!” shouted a pirate who had suddenly appeared out of nowhere. <!--Boom-->
 
 7. WHOOSH! The rocket took off, and BOOM! The time machine broke down at the worst possible moment!
-   ![rocket](rocker.png)  <!---Tang-->
+   ![rocket](rocket.png)  <!---Tang-->
 
 8. The cat was supposed to talk here, but the line is missing.  
 
