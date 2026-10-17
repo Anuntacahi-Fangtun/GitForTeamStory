@@ -32,4 +32,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (What did they find?)  OH!!!!! THEY FIND THE TRUTH OF FIGHT CLUB 
    SO THEY SAY "Don't SAY FIGHT CLUB" ??????? YOU ARE SON OF A BITCH"!!!!!!!!!!
 
-10. The ending… well, we don’t really have one. Please fix this..
+10. 10. Suddenly, all the chaotic timelines merged together! The dragon, the pirate, the detective, and the talking cat decided to form an intergalactic alliance to guard the ultimate treasure chest forever. <!---mon-->
